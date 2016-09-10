@@ -1,8 +1,14 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-Arnaud konan
+1. Arnaud Michel konan
 2. Why are you interested in Data Science?
+   I manage Transportation Data for NREL and realize that the basic approach was no longer sufficient to deal with the massive amount of data we were getting so I started to look around and so the opportunity that Big Data offer. I am also interested in using data to help our country reduce its dependence on foreign oil by helping build better and more efficient vehicles using existing data.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+     I used Python and MatLab on the daily basis, I know I little bit if java and C# but I am not proficient in those languages. I have never had a formal programming language class. I have taken a lot of classes on programming for engineers and scientist like problem solving tool in MatLab, numerical computation in MatLab, EKG data exploration in python, network optimization programming in Python… 
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+    I have taken intro to stats, stats for engineers, applied statistical data analysis, and SAS and Spss classes. We do summary statistics on the data that we received to give some high level stats to the clients. We use hypothesis testing on research results.
 5.  Do you have other experience with R or Python?
+   Yes, I use python a lot but R not so much.
 6.  What do you hope to learn in this class?
+     I am hoping to get to learn the right way of doing rigorous data analysis in the era of bib data where the student t test seems to be overwhelmed by the data itself.
 7.  Is there anything else you would like to share with us?
+   Not really.
